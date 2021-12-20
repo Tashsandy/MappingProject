@@ -1,0 +1,60 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
+
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+  max-width: 900px;
+margin: 0 auto;
+padding-top: 30px;
+}
+
+img {max-width: 100%;
+}
+
+html, body {
+    font-size: 18px;
+  font-family: arial;
+margin-right: 8%;
+margin-left: 8%;
+background-color: #D5F5F7;
+}
+
+h3 {font-size: 80%}
+
+h2 {font-size: 100%}
+.container {
+font-size: 80%
+}
+
+h1 {font-size: 150%;
+padding-top: 40px;}
+
+h4 {margin-top: 8%}
+
+.container {
+  max-width: 900px;
+margin: 0 auto;
+padding-top: 30px;
+}
+
+h5 {margin-top 10%}
+
+
+@media(min-width: 681px) {
+
+}
+
+.container { font-size: 10px;
+padding-top: 30px;
+}
+
+@media(min-width: 729px) {
+
+}
+
+ul {margin-left: 0%;
+}
